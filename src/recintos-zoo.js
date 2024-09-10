@@ -110,4 +110,4 @@ class RecintosZoo {
 // Testando a função
 const zoo = new RecintosZoo();
 console.log(zoo.analisaRecintos("HIPOPOTAMO", 1)); // Teste com 1 leopardo
-export { RecintosZoo };
+export { RecintosZoo as RecintosZoo };
